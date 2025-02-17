@@ -18,10 +18,26 @@ nav li{
     display: inline-block;
     padding:40px;
     font-size:25px;
-    color: rgb(255, 7, 7);
+    color: rgb(46, 47, 47);
      
 }
-form{
-    padding-top:30px;
+button{
+    border-radius:12px;
+    width:10rem;
 }
+ footer{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    height:10rem;
+    padding-top:28px;
+ }
+
+ form{
+    padding-top:2rem;
+    font-size:20px;
+   
+ }
+
  
+  
