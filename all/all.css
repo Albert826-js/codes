@@ -1,1 +1,21 @@
+.hi{
+    text-align: center;
+
+}
+
+.hi h1{
+    color: aqua;
+    font-size:6em;
     
+}
+
+nav{
+    text-align:center; 
+     
+}
+
+nav li{
+    display: inline-block;
+    padding:40px;
+    font-size:25px;
+}
